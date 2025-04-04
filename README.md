@@ -35,4 +35,9 @@
 
 ---
 
-### ✍️ Пример Prompt
+## Автор и обратная связь
+
+Имеда Шерифадзе  
+[📧 isheriphadze@gmail.com](mailto:isheriphadze.com)
+
+https://t.me/NeuroFusionHub

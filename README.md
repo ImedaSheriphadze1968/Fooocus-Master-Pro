@@ -15,7 +15,7 @@
 
 ### 🚀 Готовая программа для скачивания
 
-🔗 **[Скачать Fooocus (Windows)](https://github.com/lllyasviel/Fooocus/releases/latest)**  
+🔗 **[Скачать Fooocus (Windows)](https://github.com/lllyasviel/Fooocus/archive/refs/tags/v2.5.5.zip)**  
 📦 Формат: `.zip`, версия: *v2.5.5 или новее*
 
 **Требования:**
